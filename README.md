@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning React
 - 👯 I’m active on [掘金](https://juejin.im/user/4054654614250174)
-- 📫 How to reach me: yangfan201601@126.com
+- 📫 How to reach me: 15234408101@163.com
 - ⚡ Fun fact: ....
 https://github.com/anuraghazra/github-readme-stats
 
