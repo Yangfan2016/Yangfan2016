@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React
 - 👯 I’m active on [掘金](https://juejin.im/user/4054654614250174)
 - 📫 How to reach me: 15234408101@163.com
+- Blog: https://yangfan2016.github.io/
 - ⚡ Fun fact: ....
 https://github.com/anuraghazra/github-readme-stats
 
